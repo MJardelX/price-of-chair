@@ -1,2 +1,1 @@
-web: uwsgi.ini
-Procfile
+web: uwsgi uwsgi.ini
